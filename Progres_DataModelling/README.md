@@ -72,5 +72,4 @@ Note: graph for user by state has mutiple states per user
 
 
 ## ERD for sparkify
-![alt text][logo]
-[logo]: https://github.com/mindfultime/nd027/blob/master/Progres_DataModelling/ERD.PNG "Logo Sparkify ERD"
+![alt text](https://github.com/mindfultime/nd027/blob/master/Progres_DataModelling/ERD.PNG "Logo Sparkify ERD")
