@@ -69,3 +69,8 @@ Note: graph for user by state has mutiple states per user
 1. Execute in `terminal:` `python create_tables.py` . This will create the database and drop.
 2. Execute in `terminal:` `python etl.py`. This will extract, transform, and finally load the data in the database.
 2. Open Dashboard for testing queries in the ipython notebook.
+
+
+## ERD for sparkify
+![alt text][logo]
+[logo]: https://github.com/mindfultime/nd027/blob/master/Progres_DataModelling/ERD.PNG "Logo Sparkify ERD"
